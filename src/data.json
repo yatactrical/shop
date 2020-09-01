@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "title": "Product 1",
+      "price": "1300",
+      "image": "images/1.png"
+    },
+    {
+      "title": "Product 2",
+      "price": "1700",
+      "image": "images/2.png"
+    },
+    {
+      "title": "Product 3",
+      "price": "1300",
+      "image": "images/3.jpg"
+    },
+    {
+      "title": "Product 4",
+      "price": "1300",
+      "image": "images/4.jpg"
+    },
+    {
+      "title": "Product 5",
+      "price": "2000",
+      "image": "images/5.jpg"
+    },
+    {
+      "title": "Product 6",
+      "price": "1300",
+      "image": "images/6.png"
+    },
+    {
+      "title": "Product 7",
+      "price": "1250",
+      "image": "images/17.jpg"
+    },
+    {
+      "title": "Product 8",
+      "price": "1300",
+      "image": "images/18.jpg"
+    },
+    {
+      "title": "Product 9",
+      "price": "1000",
+      "image": "images/1.png"
+    },
+    {
+      "title": "Product 10",
+      "price": "1300",
+      "image": "images/2.png"
+    },
+    {
+      "title": "Product 11",
+      "price": "700",
+      "image": "images/3.jpg"
+    },
+    {
+      "title": "Product 12",
+      "price": "900",
+      "image": "images/4.jpg"
+    }
+  ],
+  "AboutUs": {
+    "Title": "About Us",
+    "Description": "Welcome to our shop. We Sell multiple stuff. We hope u enjoy."
+  },
+  "ContactUs": {
+    "Title": "Contact Us",
+    "Phone": "09038337010",
+    "Address": "Tehran , Street 1 , NUmber 1",
+    "Email": "mehr.ashjaee@gmail.com"
+  }
+}

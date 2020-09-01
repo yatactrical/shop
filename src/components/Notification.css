@@ -1,0 +1,45 @@
+.notification-container{
+  display: none;
+  position: fixed;
+  width: 100%;
+  left:25%;
+  top:20px;
+  opacity: 1;
+  transition: 2s opacity;
+}
+
+.fade-out {
+  opacity: 0;
+}
+
+.notification {
+  display: flex;
+  padding: 15px;
+  border: 1px solid black;
+  margin: 10px;
+  width: 50%;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.678);
+}
+
+.notification-message {
+  font-family: "Balsamiq Sans", cursive;
+  font-size: 22px;
+}
+
+.tick {
+  margin-right: 10px;
+}
+
+.tick img {
+  width: 40px;
+}
+.close {
+  margin-left: auto;
+}
+
+.close img {
+  width: 20px;
+  cursor: pointer;
+}
+

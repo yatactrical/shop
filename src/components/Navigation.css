@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+
+.navigation {
+  height: 100px;
+  display: flex;
+  /* margin: 0px 25px 10px 25px; */
+  /* padding: 35px 0px 35px 0px; */
+  background-color: #000000;
+  /* border-top:5px solid gold; */
+  border-bottom: 5px solid gold;
+}
+.navigation img{
+  height: 100px;
+}
+
+.navbar-item {
+  margin-top: 25px;
+  padding: 5px 15px 5px 10px;
+  /* border-right: 1px solid; */
+  color: #ffffff;
+  font-family: Impact, Charcoal, sans-serif;
+  font-size:25px;
+  text-decoration: none;
+}
+.navbar-item:hover{
+  color: gold;
+}
+
+.navbar-item.cart-icon{
+  margin-top: -10px;
+  align-items: center;
+  margin-left:auto;
+  border-right: none;
+  display: flex;
+}
+.navbar-item.cart-icon img{
+  width:30px;
+  margin-left: 10px;
+}
+
+.navbar-item.cart-icon{
+  margin-left:auto;
+  border-right: none;
+  display: flex;
+}

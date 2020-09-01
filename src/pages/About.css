@@ -1,0 +1,33 @@
+.about-container {
+    background-image: url("/images/6.png");
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    z-index: -1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .about-info {
+    width: 60vw;
+    height: 60vh;
+    background-color: #ffffff85;
+    border-radius: 5%;
+    padding: 5px 5px 5px 10px;
+  }
+  
+  .about-info .title{
+    color : rgb(27, 2, 87);
+    text-align: center;
+    font-size:30px;
+  }
+
+  .about-info p{
+    font-size:22px;
+    font-family: 'Roboto Condensed', sans-serif;
+  }
+  
